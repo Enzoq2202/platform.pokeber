@@ -19,6 +19,8 @@
 
 [platform.pokerber.winrecord](https://github.com/Enzoq2202/platform.pokerber.winrecord)
 
+[platform.pokerber.winrecord-resource](https://github.com/Enzoq2202/platform.pokerber.winrecord-resource)
+
 [platform.pokerber.ops](https://github.com/Enzoq2202/platform.pokerber.ops)
 
 [platform.pokerber.docker-api](https://github.com/Enzoq2202/platform.pokerber.docker-api)
