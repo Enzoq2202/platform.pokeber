@@ -1,7 +1,7 @@
 # platform.pokerber
 
 ## Descrição
-  Pokerber é uma plataforma para seus usuários regitrarem seus jogos de poker entre amigos. Nele, você pode armazenar todos os jogos e seus repectivos vencedores.
+  Pokerber é uma plataforma para seus usuários regitrarem seus jogos de poker entre amigos e criarem torneios. Nele, você pode armazenar todos os jogos e seus repectivos vencedores.
 
 ## Links dos repositorios realizados
 
