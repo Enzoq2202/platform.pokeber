@@ -31,6 +31,8 @@
 
 [platform.pokerber.docker-api](https://github.com/Enzoq2202/platform.pokerber.docker-api)
 
+[platform.pokerber.redis](https://github.com/Eduardosmb/platform.pokerber.redis)
 
+[platform.pokerber.db](https://github.com/Eduardosmb/platform.pokerber.db)
 
 
