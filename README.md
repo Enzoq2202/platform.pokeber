@@ -35,4 +35,6 @@
 
 [platform.pokerber.db](https://github.com/Eduardosmb/platform.pokerber.db)
 
+[apresentação powerpoint](https://www.canva.com/design/DAGGGXLnmVs/KKME0AYe1xUHW4zEkc6RXg/edit?utm_content=DAGGGXLnmVs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
