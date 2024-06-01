@@ -2,8 +2,38 @@
 
 
 
-## Descrição
-  Pokerber é uma plataforma para seus usuários regitrarem seus jogos de poker entre amigos e criarem torneios. Nele, você pode armazenar todos os jogos e seus repectivos vencedores.
+# Arquitetura do Projeto Pokerber
+
+O projeto **Pokerber** é uma plataforma desenvolvida para permitir que os usuários registrem seus jogos de poker entre amigos e criem torneios. Utilizamos Jenkins, Docker, Swagger e Kubernetes para garantir escalabilidade, flexibilidade e facilidade de manutenção.
+
+## 1. Jenkins
+
+Utilizamos **Jenkins** para automatizar o processo de integração contínua (CI) e entrega contínua (CD). Ele compila, testa e implanta o aplicativo de forma automatizada, garantindo que cada alteração no código-fonte seja rapidamente integrada e entregue.
+
+## 2. Docker
+
+**Docker** é usado para criar contêineres que empacotam a aplicação e suas dependências, garantindo um ambiente consistente em diferentes sistemas. Isso facilita a portabilidade e o isolamento dos serviços.
+
+## 3. Swagger
+
+**Swagger** é utilizado para documentar a API do Pokerber. Ele gera documentação interativa, facilitando o entendimento e o teste das APIs pelos desenvolvedores.
+
+## 4. Kubernetes
+
+**Kubernetes** orquestra os contêineres Docker, gerenciando a implantação, escalonamento e operações de contêineres em clusters. Ele garante alta disponibilidade e permite escalabilidade automática com base na demanda do tráfego.
+
+## Fluxo de Trabalho
+
+1. **Desenvolvimento e Teste**: Código versionado em um repositório Git.
+2. **Integração Contínua (CI)**: Jenkins compila, testa e cria imagens Docker.
+3. **Entrega Contínua (CD)**: Jenkins envia as imagens Docker para um registro de contêiner.
+4. **Implantação**: Kubernetes implanta as imagens Docker no cluster.
+5. **Monitoramento e Manutenção**: Kubernetes monitora e ajusta os contêineres automaticamente.
+
+## Conclusão
+
+A arquitetura do Pokerber, utilizando Jenkins, Docker, Swagger e Kubernetes, oferece uma plataforma robusta, escalável e de fácil manutenção, permitindo que a equipe de desenvolvimento se concentre em melhorar a experiência do usuário.
+
 
 ## Links dos repositorios realizados
 | **Microserviço**                     | **Descrição**                                             | **Link**                                                                                                                                |
